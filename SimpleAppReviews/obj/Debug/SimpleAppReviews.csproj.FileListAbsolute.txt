@@ -1,0 +1,16 @@
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\obj\Debug\SimpleAppReviews.Properties.Resources.resources
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\obj\Debug\SimpleAppReviews.csproj.GenerateResource.Cache
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\bin\Debug\SimpleAppReviews.exe
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\bin\Debug\SimpleAppReviews.pdb
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\obj\Debug\SimpleAppReviews.exe
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\obj\Debug\SimpleAppReviews.pdb
+C:\Users\tal\AppData\Local\Temporary Projects\SimpleAppReviews\obj\Debug\SimpleAppReviews.Form1.resources
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\bin\Debug\SimpleAppReviews.exe
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\bin\Debug\SimpleAppReviews.pdb
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\obj\Debug\SimpleAppReviews.Properties.Resources.resources
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\obj\Debug\SimpleAppReviews.csproj.GenerateResource.Cache
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\obj\Debug\SimpleAppReviews.exe
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\obj\Debug\SimpleAppReviews.pdb
+C:\Users\tal\Documents\Visual Studio 2008\Projects\SimpleAppReviews\SimpleAppReviews\obj\Debug\SimpleAppReviews.MainForm.resources
